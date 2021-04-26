@@ -770,14 +770,16 @@ header {
 
 .product-image-container {
   position: relative;
+  /* height: 300px; */
+  /* width: 300px; */
   z-index: 1;
 }
 
 img.product-card-image {
-  height: 300px;
-  width: 300px;
   z-index: 1;
-
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
 }
 /* possibly 320px for width and height^ */
 

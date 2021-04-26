@@ -1,5 +1,7 @@
 import React from 'react';
 import ajaxRequests from '../../../ajaxRequests.js';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faStar } from '@fortawesome/free-solid-svg-icons';
 
 class ProductCardImg extends React.Component {
   constructor(props) {
@@ -32,7 +34,7 @@ class ProductCardImg extends React.Component {
     if (isRelatedProduct) {
       return (
         <div className='product-image-container'>
-          <img className='product-card-image' src={this.state.image || 'https://miro.medium.com/max/880/0*H3jZONKqRuAAeHnG.jpg'}></img>
+          <img className='product-card-image' src={this.state.image || 'https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg'}></img>
           <div>
             <span className='star-action'><a onClick={this.props.handleStarActionClick}>&#9733;</a></span>
           </div>
@@ -41,7 +43,7 @@ class ProductCardImg extends React.Component {
     } else {
       return (
         <div className='product-image-container'>
-          <img className='product-card-image' src={this.state.image || 'https://miro.medium.com/max/880/0*H3jZONKqRuAAeHnG.jpg'}></img>
+          <img className='product-card-image' src={this.state.image || 'https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg'}></img>
           <div>
             <span className='x-action'><a onClick={() => this.props.handleOutfitRemove(relatedProductId) }>&#9447;</a></span>
           </div>
@@ -52,3 +54,4 @@ class ProductCardImg extends React.Component {
 }
 
 export default ProductCardImg;
+// https://miro.medium.com/max/880/0*H3jZONKqRuAAeHnG.jpg

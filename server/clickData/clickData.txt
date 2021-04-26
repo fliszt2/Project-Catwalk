@@ -158,3 +158,57 @@
 {"nodeName":"INPUT","className":"","id":"theme-toggle","textContent":"","dateOfClick":"2021-03-13T20:47:31.611Z"}
 {"nodeName":"DIV","className":"slider round","id":"","textContent":"","dateOfClick":"2021-03-13T20:47:33.218Z"}
 {"nodeName":"INPUT","className":"","id":"theme-toggle","textContent":"","dateOfClick":"2021-03-13T20:47:33.220Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T14:42:51.924Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:42:56.780Z"}
+{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T14:42:58.606Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T14:43:01.044Z"}
+{"nodeName":"IMG","className":"","id":"103498","textContent":"","dateOfClick":"2021-04-26T14:43:07.505Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:43:32.313Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:43:34.634Z"}
+{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T14:43:36.856Z"}
+{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T14:43:37.998Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:43:52.035Z"}
+{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:43:56.015Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:43:58.090Z"}
+{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T14:43:59.249Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19090","textContent":"AccessoriesBright Future Sunglasses$69.00  ","dateOfClick":"2021-04-26T14:44:20.933Z"}
+{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"$99.00","dateOfClick":"2021-04-26T14:44:32.679Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:44:36.170Z"}
+{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:44:38.904Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:44:45.059Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:45:06.608Z"}
+{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T14:45:10.255Z"}
+{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T14:45:10.257Z"}
+{"nodeName":"LI","className":"","id":"","textContent":"Alisha Cap | ID: 19106","dateOfClick":"2021-04-26T14:45:12.293Z"}
+{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T14:45:14.944Z"}
+{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T14:45:14.945Z"}
+{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Cap","dateOfClick":"2021-04-26T14:45:22.202Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19391","textContent":"PantsJulia Pants$947.00  ","dateOfClick":"2021-04-26T14:45:27.140Z"}
+{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:45:35.537Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:45:36.743Z"}
+{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:45:44.015Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:45:45.043Z"}
+{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:45:59.028Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:46:00.502Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T14:46:03.625Z"}
+{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-04-26T14:46:06.823Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"The Joseph Boots","dateOfClick":"2021-04-26T14:48:49.043Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:48:52.945Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"<","dateOfClick":"2021-04-26T14:48:55.669Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:51:52.297Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"<","dateOfClick":"2021-04-26T14:51:56.716Z"}
+{"nodeName":"IMG","className":"product-card-image","id":"","textContent":"","dateOfClick":"2021-04-26T14:52:03.467Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"YEasy 350","dateOfClick":"2021-04-26T14:56:26.936Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:56:30.761Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:56:33.252Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19092","textContent":"PantsSlacker's Slacks$65.00  ","dateOfClick":"2021-04-26T14:56:38.718Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T14:59:44.351Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T15:01:13.176Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:03:04.822Z"}
+{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:03:17.288Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:03:20.865Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:03:24.110Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19098","textContent":"AccessoriesInfinity Stone$50000000.00  ","dateOfClick":"2021-04-26T15:03:27.766Z"}
+{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T15:03:33.650Z"}
+{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T15:03:33.651Z"}
+{"nodeName":"LI","className":"","id":"","textContent":"YEasy 350 | ID: 19096","dateOfClick":"2021-04-26T15:03:34.469Z"}
