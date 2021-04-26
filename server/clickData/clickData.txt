@@ -212,3 +212,22 @@
 {"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T15:03:33.650Z"}
 {"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T15:03:33.651Z"}
 {"nodeName":"LI","className":"","id":"","textContent":"YEasy 350 | ID: 19096","dateOfClick":"2021-04-26T15:03:34.469Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:09:46.931Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T15:09:48.263Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:09:51.508Z"}
+{"nodeName":"DIV","className":"bobmodal-main pop-up-modal","id":"","textContent":"✖ComparingCamo OnesieMorning Joggers✓Fabric: Canvas✓Buttons: BrassFabric: 100% Cotton✓Cut: Skinny✓","dateOfClick":"2021-04-26T15:09:52.647Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T15:09:53.407Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19091","textContent":"PantsMorning Joggers$35.0040.00  ","dateOfClick":"2021-04-26T15:09:56.008Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:09:59.808Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:10:02.695Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T15:10:04.032Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:10:07.481Z"}
+{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:11:12.008Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:11:14.448Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:11:16.573Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:11:19.519Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19091","textContent":"PantsMorning Joggers$35.0040.00  ","dateOfClick":"2021-04-26T15:13:06.703Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:13:08.704Z"}
+{"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:13:44.192Z"}
+{"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:13:45.535Z"}
+{"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:13:46.221Z"}

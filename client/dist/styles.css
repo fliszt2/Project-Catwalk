@@ -808,7 +808,8 @@ img.product-card-image {
   top: 2px;
   right: 3px;
   font-size: 24px;
-  color: var(--pale-pink);
+  /* color: var(--pale-pink); */
+  color: var(--white);
   /* color: black; */
   /* background-color: black; */
   text-shadow: 0 0 2px rgba(0,0,0,0.7);
@@ -817,11 +818,13 @@ img.product-card-image {
 }
 
 .x-action:hover {
-  color: #f39797;
+  /* color: #f39797; */
+  color: var(--pale-pink);
 }
 
 .x-action:active {
-  color: #f87d7d;
+  /* color: #f87d7d; */
+  color: var(--pink);
 }
 
 /* ProductCard: Stars */

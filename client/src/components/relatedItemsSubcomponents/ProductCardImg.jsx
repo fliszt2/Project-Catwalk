@@ -3,6 +3,8 @@ import ajaxRequests from '../../../ajaxRequests.js';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 
+const fullStarElement = <FontAwesomeIcon icon={faStar} />
+
 class ProductCardImg extends React.Component {
   constructor(props) {
     super(props);
@@ -36,7 +38,7 @@ class ProductCardImg extends React.Component {
         <div className='product-image-container'>
           <img className='product-card-image' src={this.state.image || 'https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg'}></img>
           <div>
-            <span className='star-action'><a onClick={this.props.handleStarActionClick}>&#9733;</a></span>
+            <span className='star-action'><a onClick={this.props.handleStarActionClick}>{fullStarElement}</a></span>
           </div>
         </div>
       )
@@ -45,7 +47,7 @@ class ProductCardImg extends React.Component {
         <div className='product-image-container'>
           <img className='product-card-image' src={this.state.image || 'https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg'}></img>
           <div>
-            <span className='x-action'><a onClick={() => this.props.handleOutfitRemove(relatedProductId) }>&#9447;</a></span>
+            <span className='x-action'><a onClick={() => this.props.handleOutfitRemove(relatedProductId) }><i class="fas fa-times"></i></a></span>
           </div>
         </div>
       )
