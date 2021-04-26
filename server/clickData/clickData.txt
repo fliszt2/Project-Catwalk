@@ -254,3 +254,56 @@
 {"nodeName":"BUTTON","className":"change-your-outfit-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:24:12.742Z"}
 {"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:24:20.200Z"}
 {"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"<","dateOfClick":"2021-04-26T15:24:22.704Z"}
+{"nodeName":"DIV","className":"related-products","id":"","textContent":"✖ComparingSlacker's SlacksNothing to see, hereJacketsCamo Onesie$100.00140.00  ✖ComparingSlacker's SlacksNothing to see, hereAccessoriesBright Future Sunglasses$69.00  ✖ComparingSlacker's SlacksNothing to see, herePantsSlacker's Slacks$65.00  ✖ComparingSlacker's SlacksNothing to see, hereKicksHeir Force Ones$99.00  >","dateOfClick":"2021-04-26T15:25:47.354Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:25:49.227Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T15:28:19.510Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:28:21.249Z"}
+{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Pants","dateOfClick":"2021-04-26T15:30:51.156Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T15:31:26.519Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:31:30.822Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T15:32:02.295Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:32:05.322Z"}
+{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"$120.00","dateOfClick":"2021-04-26T15:32:35.739Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:32:38.495Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:33:10.026Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:33:12.393Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T15:33:42.228Z"}
+{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:35:44.852Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:35:46.897Z"}
+{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Dress Shoes","dateOfClick":"2021-04-26T15:36:06.037Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T15:37:25.701Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T15:38:11.815Z"}
+{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"$120.00","dateOfClick":"2021-04-26T15:38:26.475Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:38:28.068Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T15:38:32.597Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:38:36.917Z"}
+{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"","dateOfClick":"2021-04-26T15:38:39.238Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:38:56.217Z"}
+{"nodeName":"DIV","className":"","id":"","textContent":"$400.00450.00","dateOfClick":"2021-04-26T15:39:35.197Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:39:38.005Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:39:41.135Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:39:44.021Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:39:46.472Z"}
+{"nodeName":"DIV","className":"","id":"","textContent":"$100.00140.00","dateOfClick":"2021-04-26T15:39:48.862Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:39:51.757Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19091","textContent":"PantsMorning Joggers$40.00  ","dateOfClick":"2021-04-26T15:39:54.810Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19090","textContent":"AccessoriesBright Future Sunglasses$69.00  ","dateOfClick":"2021-04-26T15:39:57.878Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:39:59.086Z"}
+{"nodeName":"BUTTON","className":"change-your-outfit-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:40:00.970Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:40:54.998Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19091","textContent":"PantsMorning Joggers$35.0040.00  ","dateOfClick":"2021-04-26T15:40:57.180Z"}
+{"nodeName":"SPAN","className":"plus-icon","id":"","textContent":"","dateOfClick":"2021-04-26T15:40:59.957Z"}
+{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:41:02.485Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:41:05.528Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:41:07.864Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:41:10.796Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:42:49.820Z"}
+{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:42:52.078Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:42:54.823Z"}
+{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:42:56.664Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:42:59.904Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19093","textContent":"KicksHeir Force Ones$99.00  ","dateOfClick":"2021-04-26T15:43:02.642Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:43:07.336Z"}
+{"nodeName":"I","className":"fas fa-chevron-right","id":"","textContent":"","dateOfClick":"2021-04-26T15:43:09.393Z"}
+{"nodeName":"I","className":"fas fa-chevron-left","id":"","textContent":"","dateOfClick":"2021-04-26T15:43:11.443Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19094","textContent":"KicksPumped Up Kicks$89.00  ","dateOfClick":"2021-04-26T15:43:13.551Z"}

@@ -128,7 +128,7 @@ class YourOutfit extends React.Component {
           <span className='add-outfit-text'>Add to Outfit</span>
         </div>
         {this.state.shownProducts.map(yourOutfitId => <ProductCard isYourOutfit={true} relatedProductId={yourOutfitId} key={'YO: ' + yourOutfitId} handleOutfitRemove={this.props.handleOutfitRemove} handleProductDetailRender={this.props.handleProductDetailRender}/>)}
-        <button type='button' className='change-your-outfit-button' onClick={this.handleNextYourOutfitClick}>&#62;</button>
+        <button type='button' className='change-your-outfit-button' onClick={this.handleNextYourOutfitClick}><i className="fas fa-chevron-right"></i></button>
       </div>
       );
     } else if (this.state.isNothingHiddenRight) {
@@ -138,7 +138,7 @@ class YourOutfit extends React.Component {
             <span className='plus-icon'>{PlusElement}</span>
             <span className='add-outfit-text'>Add to Outfit</span>
           </div>
-          <button type='button' className='change-your-outfit-button' onClick={this.handlePreviousYourOutfitClick}>&#60;</button>
+          <button type='button' className='change-your-outfit-button' onClick={this.handlePreviousYourOutfitClick}><i className="fas fa-chevron-left"></i></button>
           {this.state.shownProducts.map(yourOutfitId => <ProductCard isYourOutfit={true} relatedProductId={yourOutfitId} key={'YO: ' + yourOutfitId} handleOutfitRemove={this.props.handleOutfitRemove} handleProductDetailRender={this.props.handleProductDetailRender} />)}
         </div>
       );
@@ -149,9 +149,9 @@ class YourOutfit extends React.Component {
             <span className='plus-icon'>{PlusElement}</span>
             <span className='add-outfit-text'>Add to Outfit</span>
           </div>
-          <button type='button' className='change-your-outfit-button' onClick={this.handlePreviousYourOutfitClick}>&#60;</button>
+          <button type='button' className='change-your-outfit-button' onClick={this.handlePreviousYourOutfitClick}><i className="fas fa-chevron-left"></i></button>
           {this.state.shownProducts.map(yourOutfitId => <ProductCard isYourOutfit={true} relatedProductId={yourOutfitId} key={'YO: ' + yourOutfitId} handleOutfitRemove={this.props.handleOutfitRemove} handleProductDetailRender={this.props.handleProductDetailRender} />)}
-          <button type='button' className='change-your-outfit-button' onClick={this.handleNextYourOutfitClick}>&#62;</button>
+          <button type='button' className='change-your-outfit-button' onClick={this.handleNextYourOutfitClick}><i className="fas fa-chevron-right"></i></button>
         </div>
       );
     }

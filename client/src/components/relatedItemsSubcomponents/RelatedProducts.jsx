@@ -110,22 +110,22 @@ class RelatedProducts extends React.Component {
     if (!this.state.isNothingHiddenLeft && !this.state.isNothingHiddenRight) {
       return (
         <div className='related-products'>
-          <button type='button' className='change-product-button ' onClick={this.handlePreviousProductClick}>&#60;</button>
+          <button type='button' className='change-product-button ' onClick={this.handlePreviousProductClick}><i className="fas fa-chevron-left"></i></button>
           {this.state.shownProducts.map(relatedProductId => <ProductCard isRelatedProduct={true} relatedProductId={relatedProductId} key={relatedProductId} currentProductFeatures={this.state.currentProductFeatures} currentProductName={this.state.currentProductName} handleProductDetailRender={this.props.handleProductDetailRender}/>)}
-          <button type='button' className='change-product-button' onClick={this.handleNextProductClick}>&#62;</button>
+          <button type='button' className='change-product-button' onClick={this.handleNextProductClick}><i className="fas fa-chevron-right"></i></button>
         </div>
       );
     } else if (!this.state.isNothingHiddenRight) {
       return (
         <div className='related-products'>
           {this.state.shownProducts.map(relatedProductId => <ProductCard isRelatedProduct={true} relatedProductId={relatedProductId} key={relatedProductId} currentProductFeatures={this.state.currentProductFeatures} currentProductName={this.state.currentProductName} handleProductDetailRender={this.props.handleProductDetailRender}/>)}
-          <button type='button' className='change-product-button' onClick={this.handleNextProductClick}>&#62;</button>
+          <button type='button' className='change-product-button' onClick={this.handleNextProductClick}><i className="fas fa-chevron-right"></i></button>
         </div>
       );
     } else if (!this.state.isNothingHiddenLeft) {
       return (
         <div className='related-products'>
-          <button type='button' className='change-product-button' onClick={this.handlePreviousProductClick}>&#60;</button>
+          <button type='button' className='change-product-button' onClick={this.handlePreviousProductClick}><i className="fas fa-chevron-left"></i></button>
           {this.state.shownProducts.map(relatedProductId => <ProductCard isRelatedProduct={true} relatedProductId={relatedProductId} key={relatedProductId} currentProductFeatures={this.state.currentProductFeatures} currentProductName={this.state.currentProductName} handleProductDetailRender={this.props.handleProductDetailRender}/>)}
         </div>
       );
@@ -140,3 +140,8 @@ class RelatedProducts extends React.Component {
 }
 
 export default RelatedProducts;
+
+// <i className="fas fa-chevron-left"></i>
+// <i className="fas fa-chevron-right"></i>
+// &#62; for right
+// &#60; for right

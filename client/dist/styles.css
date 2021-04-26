@@ -695,7 +695,7 @@ header {
   /* top: 126%; */
   top: 45%;
   height: 50px;
-  width: 20px;
+  width: 23px;
   margin-top: -20px;
   margin-left: -10px;
   margin-right: -5px;
@@ -705,6 +705,10 @@ header {
   background-color: var(--background-color);
   cursor: pointer;
   /* margin: 5px; */
+  /* padding-right: 5px; */
+  padding: 0;
+  border: none;
+  /* background: none; */
 }
 
 .change-product-button:hover {
@@ -713,7 +717,7 @@ header {
 }
 
 .change-product-button:active {
-  color: var(--pink);
+  color: var(--white);
 }
 
 
@@ -1082,7 +1086,8 @@ img.product-card-image {
   background-color: var(--background-color);
   cursor: pointer;
   /* margin: 5px; */
-
+  padding: 0;
+  border: none;
 }
 
 .change-your-outfit-button:hover {
@@ -1091,7 +1096,7 @@ img.product-card-image {
 }
 
 .change-your-outfit-button:active {
-  color: var(--pink);
+  color: var(--white);
 }
 
 /* .your-outfit-card {
