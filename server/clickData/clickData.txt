@@ -231,3 +231,26 @@
 {"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:13:44.192Z"}
 {"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:13:45.535Z"}
 {"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:13:46.221Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:16:41.287Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:16:45.014Z"}
+{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T15:16:49.430Z"}
+{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Pants","dateOfClick":"2021-04-26T15:16:59.647Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:17:05.286Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:17:53.374Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:17:58.606Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:18:00.957Z"}
+{"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:18:05.142Z"}
+{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T15:18:07.278Z"}
+{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"$140.00","dateOfClick":"2021-04-26T15:18:13.478Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:18:19.517Z"}
+{"nodeName":"DIV","className":"","id":"","textContent":"$35.0040.00","dateOfClick":"2021-04-26T15:21:50.004Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:21:54.520Z"}
+{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Accessories","dateOfClick":"2021-04-26T15:23:24.835Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:23:58.629Z"}
+{"nodeName":"DIV","className":"","id":"","textContent":"$400.00450.00","dateOfClick":"2021-04-26T15:24:01.172Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:24:04.241Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19092","textContent":"PantsSlacker's Slacks$65.00  ","dateOfClick":"2021-04-26T15:24:07.611Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:24:10.185Z"}
+{"nodeName":"BUTTON","className":"change-your-outfit-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:24:12.742Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:24:20.200Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"<","dateOfClick":"2021-04-26T15:24:22.704Z"}
