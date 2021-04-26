@@ -729,7 +729,7 @@ header {
   height: 422px;
   /* margin: 10px 10px; */
   margin: 10px 15px;
-  text-align: center;
+  /* text-align: center; */
   vertical-align: top;
   /* position: relative; */
   /* z-index: -2; */
@@ -741,6 +741,9 @@ header {
   padding: 15px 10px 15px 10px;
   background-color: var(--dark-teal);
   color: var(--white);
+  /* border-radius: 5px; */
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 
 .product-card-text-box:hover {
@@ -787,6 +790,9 @@ img.product-card-image {
   width: 265px;
   height: 265px;
   object-fit: cover;
+  /* border-radius: 5px; */
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
 /* possibly 320px for width and height^ */
 

@@ -1,309 +1,41 @@
 
 {"nodeName":"DIV","className":"","id":"product-details","textContent":"See all 6 reviewsROMPERAlberto Romper826.00STYLE > GOLDPICK A SIZEXSSMLXLXXLADD TO CART*","dateOfClick":"2021-03-13T20:16:19.043Z"}
-{"nodeName":"I","className":"star fa fa-star","id":"","textContent":"","dateOfClick":"2021-03-13T20:16:19.759Z"}
-{"nodeName":"IMG","className":"","id":"","textContent":"","dateOfClick":"2021-03-13T20:16:21.069Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-03-13T20:20:39.060Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:20:41.849Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:20:43.155Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:20:45.257Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Era Trousers","dateOfClick":"2021-03-13T20:20:47.199Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:20:50.242Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"20013","textContent":"SocksKelly Socks$204.00  ","dateOfClick":"2021-03-13T20:20:51.437Z"}
-{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:20:53.689Z"}
-{"nodeName":"BUTTON","className":"change-your-outfit-button","id":"","textContent":">","dateOfClick":"2021-03-13T20:20:55.784Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:21:00.624Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Zachary Jacket","dateOfClick":"2021-03-13T20:21:02.758Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:21:04.742Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:21:17.545Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:21:45.445Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:22:23.901Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:22:25.143Z"}
-{"nodeName":"DIV","className":"related-items","id":"","textContent":"RELATED ITEMS AND COMPARISONS✖ComparingAlberto RomperNothing to see, here★SlacksColten 150 Slacks$172.00787.00  ✖ComparingAlberto RomperDelphine Trousers✓Sustainably Sourced✓✓Green Leaf Certified✓Cut: \"Skinny\"Frame: \"DuraResin\"✓Fabric: \"100% Cotton\"✓★TrousersDelphine Trousers$686.00981.00  ✖ComparingAlberto RomperNothing to see, here★SocksYasmin Socks$464.00  ✖ComparingAlberto RomperNothing to see, here★SocksNat Socks$475.00  >YOUR OUTFITAdd to OutfitⓧSocksKelly Socks$204.00  ⓧSocksYasmin Socks$464.00  ⓧRomperAlberto Romper$826.00  ","dateOfClick":"2021-03-13T20:22:28.628Z"}
-{"nodeName":"DIV","className":"related-items","id":"","textContent":"RELATED ITEMS AND COMPARISONS✖ComparingAlberto RomperNothing to see, here★SlacksColten 150 Slacks$172.00787.00  ✖ComparingAlberto RomperDelphine Trousers✓Sustainably Sourced✓✓Green Leaf Certified✓Cut: \"Skinny\"Frame: \"DuraResin\"✓Fabric: \"100% Cotton\"✓★TrousersDelphine Trousers$686.00981.00  ✖ComparingAlberto RomperNothing to see, here★SocksYasmin Socks$464.00  ✖ComparingAlberto RomperNothing to see, here★SocksNat Socks$475.00  >YOUR OUTFITAdd to OutfitⓧSocksKelly Socks$204.00  ⓧSocksYasmin Socks$464.00  ⓧRomperAlberto Romper$826.00  ","dateOfClick":"2021-03-13T20:22:31.103Z"}
-{"nodeName":"DIV","className":"related-items","id":"","textContent":"RELATED ITEMS AND COMPARISONS✖ComparingAlberto RomperNothing to see, here★SlacksColten 150 Slacks$172.00787.00  ✖ComparingAlberto RomperNothing to see, here★TrousersDelphine Trousers$686.00981.00  ✖ComparingAlberto RomperNothing to see, here★SocksYasmin Socks$464.00  ✖ComparingAlberto RomperNothing to see, here★SocksNat Socks$475.00  >YOUR OUTFITAdd to OutfitⓧSocksKelly Socks$204.00  ⓧSocksYasmin Socks$464.00  ⓧRomperAlberto Romper$826.00  ","dateOfClick":"2021-03-13T20:23:22.182Z"}
-{"nodeName":"DIV","className":"related-items","id":"","textContent":"RELATED ITEMS AND COMPARISONS✖ComparingAlberto RomperNothing to see, here★SlacksColten 150 Slacks$172.00787.00  ✖ComparingAlberto RomperNothing to see, here★TrousersDelphine Trousers$686.00981.00  ✖ComparingAlberto RomperNothing to see, here★SocksYasmin Socks$464.00  ✖ComparingAlberto RomperNothing to see, here★SocksNat Socks$475.00  >YOUR OUTFITAdd to OutfitⓧSocksKelly Socks$204.00  ⓧSocksYasmin Socks$464.00  ⓧRomperAlberto Romper$826.00  ","dateOfClick":"2021-03-13T20:23:23.921Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:23:26.255Z"}
-{"nodeName":"SECTION","className":"add-answer-modal-main pop-up-modal","id":"","textContent":"SUBMIT YOUR QUESTION*Your Question:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Submit QuestionClose","dateOfClick":"2021-03-13T20:23:28.587Z"}
-{"nodeName":"DIV","className":"add-answer-modal display-block bobmodal","id":"","textContent":"SUBMIT YOUR QUESTION*Your Question:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Submit QuestionClose","dateOfClick":"2021-03-13T20:23:29.481Z"}
-{"nodeName":"BUTTON","className":"small-modal-button regular-text","id":"","textContent":"Close","dateOfClick":"2021-03-13T20:23:32.849Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-03-13T20:23:44.275Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"<","dateOfClick":"2021-03-13T20:23:46.346Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:23:58.574Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:25:37.557Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:25:43.188Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:25:48.421Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-03-13T20:25:54.533Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"<","dateOfClick":"2021-03-13T20:25:56.382Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"20013","textContent":"SocksKelly Socks$204.00  ","dateOfClick":"2021-03-13T20:26:00.267Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:26:02.876Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:26:08.853Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:26:09.936Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:26:27.832Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Romper","dateOfClick":"2021-03-13T20:26:29.891Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-03-13T20:26:34.316Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:26:36.405Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:26:38.201Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:26:39.552Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:27:41.479Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:28:14.806Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:28:16.046Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:28:17.541Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:28:18.738Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:28:37.695Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:28:38.678Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:28:41.476Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:28:55.373Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:28:56.945Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:28:58.416Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:29:00.123Z"}
-{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:04.354Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19364","textContent":"SocksYasmin Socks$464.00  ","dateOfClick":"2021-03-13T20:29:06.891Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:29:08.634Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:10.112Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:10.736Z"}
-{"nodeName":"SPAN","className":"product-card-text old-price","id":"","textContent":"213.00","dateOfClick":"2021-03-13T20:29:11.411Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:13.097Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:13.844Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:14.105Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:14.452Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:14.793Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:14.944Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:15.077Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:15.211Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:15.346Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:15.481Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:15.607Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:15.742Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:15.876Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:16.018Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:16.168Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:16.336Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:16.484Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:16.643Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:16.824Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:17.038Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:17.252Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:29:17.457Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:32:51.732Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:36:51.404Z"}
-{"nodeName":"DIV","className":"","id":"","textContent":"$686.00981.00","dateOfClick":"2021-03-13T20:36:54.127Z"}
-{"nodeName":"SPAN","className":"related-items-header-text add-outfit-text","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:36:57.099Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19326","textContent":"SunglassesThe Freida Sunglasses$203.00230.00  ","dateOfClick":"2021-03-13T20:37:02.509Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:37:05.818Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:37:07.982Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:37:17.306Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19364","textContent":"SocksYasmin Socks$464.00  ","dateOfClick":"2021-03-13T20:37:25.043Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:37:27.988Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:37:32.001Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:37:33.792Z"}
-{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-03-13T20:37:40.851Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:37:42.888Z"}
-{"nodeName":"BUTTON","className":"change-your-outfit-button","id":"","textContent":">","dateOfClick":"2021-03-13T20:37:55.821Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Socks","dateOfClick":"2021-03-13T20:38:02.620Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:38:04.757Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:38:07.699Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:38:10.280Z"}
-{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-03-13T20:38:11.696Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-03-13T20:38:14.872Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:38:16.628Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:38:18.593Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-03-13T20:38:22.024Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:38:27.031Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19583","textContent":"TrousersDelphine Trousers$686.00981.00  ","dateOfClick":"2021-03-13T20:38:28.763Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19583","textContent":"TrousersDelphine Trousers$686.00981.00  ","dateOfClick":"2021-03-13T20:40:18.329Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-03-13T20:40:20.651Z"}
-{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-03-13T20:40:27.314Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-03-13T20:40:29.163Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-03-13T20:40:31.764Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-03-13T20:40:35.701Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"more-reviews","textContent":"More Reviews","dateOfClick":"2021-03-13T20:40:36.642Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:40:41.117Z"}
-{"nodeName":"SECTION","className":"add-answer-modal-main pop-up-modal","id":"","textContent":"SUBMIT YOUR QUESTION*Your Question:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Submit QuestionClose","dateOfClick":"2021-03-13T20:40:46.221Z"}
-{"nodeName":"SECTION","className":"add-answer-modal-main pop-up-modal","id":"","textContent":"SUBMIT YOUR QUESTION*Your Question:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Submit QuestionClose","dateOfClick":"2021-03-13T20:41:18.731Z"}
-{"nodeName":"BUTTON","className":"small-modal-button regular-text","id":"","textContent":"Close","dateOfClick":"2021-03-13T20:41:35.010Z"}
-{"nodeName":"DIV","className":"","id":"overview-right","textContent":"See all 22 reviewsCAPReinhold Cap394.00STYLE > BLACKPICK A SIZEXSSMLXLXXLADD TO CART*","dateOfClick":"2021-03-13T20:41:35.922Z"}
-{"nodeName":"DIV","className":"","id":"","textContent":"Q: Et ut veniam mollitia totam tempore.Helpful?Yes29|Add AnswerSUBMIT YOUR ANSWERAlbert Romper: Et ut veniam mollitia totam tempore. *Your Answer:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Upload photos:Choose fileSubmit AnswerCloseA: Reiciendis aut magnam eum sint culpa sit quis et.by Camren38Jul 2nd, 2020|Helpful?Yes13|ReportConsequatur velit quasi ipsa distinctio eum.by Dewitt.KuvalisJul 23rd, 2020|Helpful?Yes8|ReportLOAD MORE ANSWERSQ: Facilis asperiores quam.Helpful?Yes26|Add AnswerSUBMIT YOUR ANSWERAlbert Romper: Facilis asperiores quam. *Your Answer:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Upload photos:Choose fileSubmit AnswerCloseA: Nemo earum quas incidunt pariatur in velit dolor.by Kattie_SchroederJan 20th, 2021|Helpful?Yes17|ReportMinus voluptatem labore provident incidunt quas quae.by Serena86Oct 17th, 2020|Helpful?Yes12|ReportLOAD MORE ANSWERSMORE ANSWERED QUESTIONSSUBMIT YOUR QUESTION*Your Question:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Submit QuestionCloseADD A QUESTION +","dateOfClick":"2021-03-13T20:41:44.195Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:42:13.858Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:42:54.789Z"}
-{"nodeName":"BUTTON","className":"modal-button bold-text","id":"","textContent":"Submit Question","dateOfClick":"2021-03-13T20:42:56.319Z"}
-{"nodeName":"BUTTON","className":"small-modal-button regular-text","id":"","textContent":"Close","dateOfClick":"2021-03-13T20:42:59.901Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:43:03.175Z"}
-{"nodeName":"BUTTON","className":"small-modal-button regular-text","id":"","textContent":"Close","dateOfClick":"2021-03-13T20:43:07.149Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:43:40.471Z"}
-{"nodeName":"DIV","className":"add-answer-modal display-block bobmodal","id":"","textContent":"SUBMIT YOUR QUESTION*Your Question:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Submit QuestionClose","dateOfClick":"2021-03-13T20:43:44.399Z"}
-{"nodeName":"BUTTON","className":"small-modal-button regular-text","id":"","textContent":"Close","dateOfClick":"2021-03-13T20:43:45.718Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:43:54.767Z"}
-{"nodeName":"FORM","className":"modal-form answerText regular-text","id":"","textContent":"*Your Question:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Submit QuestionClose","dateOfClick":"2021-03-13T20:43:56.388Z"}
-{"nodeName":"SECTION","className":"add-answer-modal-main pop-up-modal","id":"","textContent":"SUBMIT YOUR QUESTION*Your Question:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Submit QuestionClose","dateOfClick":"2021-03-13T20:43:58.270Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:44:57.428Z"}
-{"nodeName":"DIV","className":"add-answer-modal display-block bobmodal","id":"","textContent":"SUBMIT YOUR QUESTION*Your Question:*Your nickname:For privacy reasons, do not use your full name or email address*Your email:For authentication reasons, you will not be emailed.Submit QuestionClose","dateOfClick":"2021-03-13T20:45:00.135Z"}
-{"nodeName":"BUTTON","className":"small-modal-button regular-text","id":"","textContent":"Close","dateOfClick":"2021-03-13T20:45:03.066Z"}
-{"nodeName":"DIV","className":"answers","id":"","textContent":"A: asdfkasdjlf;jasdfby aasdfasdfMar 10th, 2021|Helpful?Yes0|ReportHere's my answerby blorfMar 11th, 2021|Helpful?Yes0|Report","dateOfClick":"2021-03-13T20:45:27.975Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:45:28.548Z"}
-{"nodeName":"BUTTON","className":"small-modal-button regular-text","id":"","textContent":"Close","dateOfClick":"2021-03-13T20:45:29.655Z"}
-{"nodeName":"BUTTON","className":"largeButton","id":"","textContent":"ADD A QUESTION +","dateOfClick":"2021-03-13T20:45:30.504Z"}
-{"nodeName":"BUTTON","className":"modal-button bold-text","id":"","textContent":"Submit Question","dateOfClick":"2021-03-13T20:45:31.507Z"}
-{"nodeName":"BUTTON","className":"modal-button bold-text","id":"","textContent":"Submit Question","dateOfClick":"2021-03-13T20:45:33.560Z"}
-{"nodeName":"BUTTON","className":"modal-button bold-text","id":"","textContent":"Submit Question","dateOfClick":"2021-03-13T20:45:35.903Z"}
-{"nodeName":"BUTTON","className":"modal-button bold-text","id":"","textContent":"Submit Question","dateOfClick":"2021-03-13T20:45:37.463Z"}
-{"nodeName":"BUTTON","className":"small-modal-button regular-text","id":"","textContent":"Close","dateOfClick":"2021-03-13T20:45:38.388Z"}
-{"nodeName":"BUTTON","className":"smallButton","id":"","textContent":"Yes","dateOfClick":"2021-03-13T20:45:40.581Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19364","textContent":"SocksYasmin Socks$464.00  ","dateOfClick":"2021-03-13T20:47:03.233Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19965","textContent":"SweaterFred Sweater$281.00  ","dateOfClick":"2021-03-13T20:47:09.251Z"}
-{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-03-13T20:47:29.843Z"}
-{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-03-13T20:47:29.846Z"}
-{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-03-13T20:47:30.979Z"}
-{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-03-13T20:47:30.981Z"}
-{"nodeName":"DIV","className":"slider round","id":"","textContent":"","dateOfClick":"2021-03-13T20:47:31.609Z"}
-{"nodeName":"INPUT","className":"","id":"theme-toggle","textContent":"","dateOfClick":"2021-03-13T20:47:31.611Z"}
-{"nodeName":"DIV","className":"slider round","id":"","textContent":"","dateOfClick":"2021-03-13T20:47:33.218Z"}
-{"nodeName":"INPUT","className":"","id":"theme-toggle","textContent":"","dateOfClick":"2021-03-13T20:47:33.220Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T14:42:51.924Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:42:56.780Z"}
-{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T14:42:58.606Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T14:43:01.044Z"}
-{"nodeName":"IMG","className":"","id":"103498","textContent":"","dateOfClick":"2021-04-26T14:43:07.505Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:43:32.313Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:43:34.634Z"}
-{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T14:43:36.856Z"}
-{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T14:43:37.998Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:43:52.035Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:43:56.015Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:43:58.090Z"}
-{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T14:43:59.249Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19090","textContent":"AccessoriesBright Future Sunglasses$69.00  ","dateOfClick":"2021-04-26T14:44:20.933Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"$99.00","dateOfClick":"2021-04-26T14:44:32.679Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:44:36.170Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:44:38.904Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:44:45.059Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:45:06.608Z"}
-{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T14:45:10.255Z"}
-{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T14:45:10.257Z"}
-{"nodeName":"LI","className":"","id":"","textContent":"Alisha Cap | ID: 19106","dateOfClick":"2021-04-26T14:45:12.293Z"}
-{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T14:45:14.944Z"}
-{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T14:45:14.945Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Cap","dateOfClick":"2021-04-26T14:45:22.202Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19391","textContent":"PantsJulia Pants$947.00  ","dateOfClick":"2021-04-26T14:45:27.140Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:45:35.537Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:45:36.743Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:45:44.015Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:45:45.043Z"}
-{"nodeName":"A","className":"","id":"","textContent":"★","dateOfClick":"2021-04-26T14:45:59.028Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T14:46:00.502Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T14:46:03.625Z"}
-{"nodeName":"A","className":"","id":"","textContent":"ⓧ","dateOfClick":"2021-04-26T14:46:06.823Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"The Joseph Boots","dateOfClick":"2021-04-26T14:48:49.043Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:48:52.945Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"<","dateOfClick":"2021-04-26T14:48:55.669Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:51:52.297Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"<","dateOfClick":"2021-04-26T14:51:56.716Z"}
-{"nodeName":"IMG","className":"product-card-image","id":"","textContent":"","dateOfClick":"2021-04-26T14:52:03.467Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"YEasy 350","dateOfClick":"2021-04-26T14:56:26.936Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:56:30.761Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T14:56:33.252Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19092","textContent":"PantsSlacker's Slacks$65.00  ","dateOfClick":"2021-04-26T14:56:38.718Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T14:59:44.351Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T15:01:13.176Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:03:04.822Z"}
-{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:03:17.288Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:03:20.865Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:03:24.110Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19098","textContent":"AccessoriesInfinity Stone$50000000.00  ","dateOfClick":"2021-04-26T15:03:27.766Z"}
-{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T15:03:33.650Z"}
-{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T15:03:33.651Z"}
-{"nodeName":"LI","className":"","id":"","textContent":"YEasy 350 | ID: 19096","dateOfClick":"2021-04-26T15:03:34.469Z"}
-{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:09:46.931Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T15:09:48.263Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:09:51.508Z"}
-{"nodeName":"DIV","className":"bobmodal-main pop-up-modal","id":"","textContent":"✖ComparingCamo OnesieMorning Joggers✓Fabric: Canvas✓Buttons: BrassFabric: 100% Cotton✓Cut: Skinny✓","dateOfClick":"2021-04-26T15:09:52.647Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T15:09:53.407Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19091","textContent":"PantsMorning Joggers$35.0040.00  ","dateOfClick":"2021-04-26T15:09:56.008Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:09:59.808Z"}
-{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:10:02.695Z"}
-{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T15:10:04.032Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:10:07.481Z"}
-{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:11:12.008Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:11:14.448Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:11:16.573Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:11:19.519Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19091","textContent":"PantsMorning Joggers$35.0040.00  ","dateOfClick":"2021-04-26T15:13:06.703Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:13:08.704Z"}
-{"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:13:44.192Z"}
-{"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:13:45.535Z"}
-{"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:13:46.221Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:16:41.287Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:16:45.014Z"}
-{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T15:16:49.430Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Pants","dateOfClick":"2021-04-26T15:16:59.647Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:17:05.286Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:17:53.374Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:17:58.606Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:18:00.957Z"}
-{"nodeName":"I","className":"fas fa-times","id":"","textContent":"","dateOfClick":"2021-04-26T15:18:05.142Z"}
-{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"<","dateOfClick":"2021-04-26T15:18:07.278Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"$140.00","dateOfClick":"2021-04-26T15:18:13.478Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:18:19.517Z"}
-{"nodeName":"DIV","className":"","id":"","textContent":"$35.0040.00","dateOfClick":"2021-04-26T15:21:50.004Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:21:54.520Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Accessories","dateOfClick":"2021-04-26T15:23:24.835Z"}
-{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:23:58.629Z"}
-{"nodeName":"DIV","className":"","id":"","textContent":"$400.00450.00","dateOfClick":"2021-04-26T15:24:01.172Z"}
-{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:24:04.241Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19092","textContent":"PantsSlacker's Slacks$65.00  ","dateOfClick":"2021-04-26T15:24:07.611Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:24:10.185Z"}
-{"nodeName":"BUTTON","className":"change-your-outfit-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:24:12.742Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:24:20.200Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"<","dateOfClick":"2021-04-26T15:24:22.704Z"}
-{"nodeName":"DIV","className":"related-products","id":"","textContent":"✖ComparingSlacker's SlacksNothing to see, hereJacketsCamo Onesie$100.00140.00  ✖ComparingSlacker's SlacksNothing to see, hereAccessoriesBright Future Sunglasses$69.00  ✖ComparingSlacker's SlacksNothing to see, herePantsSlacker's Slacks$65.00  ✖ComparingSlacker's SlacksNothing to see, hereKicksHeir Force Ones$99.00  >","dateOfClick":"2021-04-26T15:25:47.354Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:25:49.227Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T15:28:19.510Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:28:21.249Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Pants","dateOfClick":"2021-04-26T15:30:51.156Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T15:31:26.519Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:31:30.822Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T15:32:02.295Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:32:05.322Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"$120.00","dateOfClick":"2021-04-26T15:32:35.739Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:32:38.495Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:33:10.026Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:33:12.393Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T15:33:42.228Z"}
-{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:35:44.852Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:35:46.897Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"Dress Shoes","dateOfClick":"2021-04-26T15:36:06.037Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T15:37:25.701Z"}
-{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T15:38:11.815Z"}
-{"nodeName":"SPAN","className":"product-card-text","id":"","textContent":"$120.00","dateOfClick":"2021-04-26T15:38:26.475Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:38:28.068Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T15:38:32.597Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:38:36.917Z"}
-{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"","dateOfClick":"2021-04-26T15:38:39.238Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:38:56.217Z"}
-{"nodeName":"DIV","className":"","id":"","textContent":"$400.00450.00","dateOfClick":"2021-04-26T15:39:35.197Z"}
-{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T15:39:38.005Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:39:41.135Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:39:44.021Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:39:46.472Z"}
-{"nodeName":"DIV","className":"","id":"","textContent":"$100.00140.00","dateOfClick":"2021-04-26T15:39:48.862Z"}
-{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:39:51.757Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19091","textContent":"PantsMorning Joggers$40.00  ","dateOfClick":"2021-04-26T15:39:54.810Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19090","textContent":"AccessoriesBright Future Sunglasses$69.00  ","dateOfClick":"2021-04-26T15:39:57.878Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:39:59.086Z"}
-{"nodeName":"BUTTON","className":"change-your-outfit-button","id":"","textContent":">","dateOfClick":"2021-04-26T15:40:00.970Z"}
-{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:40:54.998Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19091","textContent":"PantsMorning Joggers$35.0040.00  ","dateOfClick":"2021-04-26T15:40:57.180Z"}
-{"nodeName":"SPAN","className":"plus-icon","id":"","textContent":"","dateOfClick":"2021-04-26T15:40:59.957Z"}
-{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:41:02.485Z"}
-{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:41:05.528Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T15:41:07.864Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:41:10.796Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:42:49.820Z"}
-{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:42:52.078Z"}
-{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T15:42:54.823Z"}
-{"nodeName":"DIV","className":"star-container","id":"","textContent":"  ","dateOfClick":"2021-04-26T15:42:56.664Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:42:59.904Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19093","textContent":"KicksHeir Force Ones$99.00  ","dateOfClick":"2021-04-26T15:43:02.642Z"}
-{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T15:43:07.336Z"}
-{"nodeName":"I","className":"fas fa-chevron-right","id":"","textContent":"","dateOfClick":"2021-04-26T15:43:09.393Z"}
-{"nodeName":"I","className":"fas fa-chevron-left","id":"","textContent":"","dateOfClick":"2021-04-26T15:43:11.443Z"}
-{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19094","textContent":"KicksPumped Up Kicks$89.00  ","dateOfClick":"2021-04-26T15:43:13.551Z"}
+
+{"nodeName":"BUTTON","className":"change-your-outfit-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:04:04.945Z"}
+{"nodeName":"H2","className":"header header-text","id":"","textContent":"QUESTIONS AND ANSWERS","dateOfClick":"2021-04-26T18:05:15.855Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T18:06:22.339Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:06:25.021Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:06:27.511Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:06:32.032Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:06:36.382Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:06:44.994Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:06:46.813Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:06:48.632Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:08:02.587Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:08:05.065Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:08:34.772Z"}
+{"nodeName":"DIV","className":"bobmodal display-block","id":"","textContent":"✖ComparingCamo OnesieMorning Joggers✓Fabric: Canvas✓Buttons: BrassFabric: 100% Cotton✓Cut: Skinny✓","dateOfClick":"2021-04-26T18:08:46.933Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:09:01.870Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:09:02.891Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:09:04.637Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:09:05.348Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:09:59.460Z"}
+{"nodeName":"IMG","className":"product-card-image","id":"","textContent":"","dateOfClick":"2021-04-26T18:10:47.459Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:10:48.180Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:10:49.861Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Blues Suede Shoes","dateOfClick":"2021-04-26T18:10:50.456Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19092","textContent":"PantsSlacker's Slacks$65.00  ","dateOfClick":"2021-04-26T18:10:53.540Z"}
+{"nodeName":"SPAN","className":"product-card-text product-card-name","id":"","textContent":"Heir Force Ones","dateOfClick":"2021-04-26T18:10:56.318Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:11:00.601Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19097","textContent":"KicksSummer Shoes$59.00  ","dateOfClick":"2021-04-26T18:11:04.023Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:11:08.080Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19094","textContent":"KicksPumped Up Kicks$89.00  ","dateOfClick":"2021-04-26T18:11:12.862Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:11:20.768Z"}
+{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T18:11:23.454Z"}
+{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T18:11:23.456Z"}
+{"nodeName":"LI","className":"","id":"","textContent":"Air Minis 250 | ID: 19099","dateOfClick":"2021-04-26T18:11:25.482Z"}
+{"nodeName":"LI","className":"","id":"","textContent":"Alisha Cap | ID: 19106","dateOfClick":"2021-04-26T18:11:30.841Z"}
+{"nodeName":"LI","className":"","id":"","textContent":"Alec 1550 Hoodie | ID: 19119","dateOfClick":"2021-04-26T18:11:36.051Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:11:38.831Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:11:49.393Z"}
+{"nodeName":"I","className":"fas fa-chevron-left","id":"","textContent":"","dateOfClick":"2021-04-26T18:11:51.217Z"}
