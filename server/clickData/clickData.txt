@@ -39,3 +39,32 @@
 {"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:11:38.831Z"}
 {"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:11:49.393Z"}
 {"nodeName":"I","className":"fas fa-chevron-left","id":"","textContent":"","dateOfClick":"2021-04-26T18:11:51.217Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19096","textContent":"KicksYEasy 350$400.00450.00  ","dateOfClick":"2021-04-26T18:12:33.284Z"}
+{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T18:12:38.762Z"}
+{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T18:12:38.764Z"}
+{"nodeName":"LI","className":"","id":"","textContent":"Cielo Trousers | ID: 19110","dateOfClick":"2021-04-26T18:12:40.947Z"}
+{"nodeName":"LI","className":"","id":"","textContent":"Sunny 1350 Slacks | ID: 19104","dateOfClick":"2021-04-26T18:13:03.316Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19654","textContent":"HatCharles Hat$538.00  ","dateOfClick":"2021-04-26T18:13:07.410Z"}
+{"nodeName":"BUTTON","className":"change-product-button","id":"","textContent":"","dateOfClick":"2021-04-26T18:13:12.494Z"}
+{"nodeName":"BUTTON","className":"change-product-button ","id":"","textContent":"","dateOfClick":"2021-04-26T18:13:15.039Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19095","textContent":"Dress ShoesBlues Suede Shoes$120.00  ","dateOfClick":"2021-04-26T18:14:53.655Z"}
+{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T18:15:03.149Z"}
+{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T18:15:03.151Z"}
+{"nodeName":"LI","className":"","id":"","textContent":"Cielo Trousers | ID: 19110","dateOfClick":"2021-04-26T18:15:05.535Z"}
+{"nodeName":"DIV","className":"product-card-text-box regular-text","id":"19145","textContent":"ShortsKarlie Shorts$264.00  ","dateOfClick":"2021-04-26T18:15:09.246Z"}
+{"nodeName":"I","className":"fas fa-tshirt","id":"products-icon","textContent":"","dateOfClick":"2021-04-26T18:15:13.535Z"}
+{"nodeName":"INPUT","className":"","id":"products-menu-cb","textContent":"","dateOfClick":"2021-04-26T18:15:13.537Z"}
+{"nodeName":"DIV","className":"product-card add-outfit","id":"","textContent":"Add to Outfit","dateOfClick":"2021-04-26T18:15:16.215Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:21:04.592Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:22:13.268Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:22:29.242Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:22:30.148Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:23:08.951Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:23:25.929Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:23:29.864Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:23:55.186Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:23:59.782Z"}
+{"nodeName":"svg","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:24:16.485Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:24:21.046Z"}
+{"nodeName":"path","className":{},"id":"","textContent":"","dateOfClick":"2021-04-26T18:24:38.430Z"}
+{"nodeName":"BUTTON","className":"close-button","id":"","textContent":"✖","dateOfClick":"2021-04-26T18:24:39.909Z"}

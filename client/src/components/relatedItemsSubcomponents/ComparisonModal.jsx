@@ -39,10 +39,11 @@ class ComparisonModal extends React.Component {
       <div className={this.state.showHideClassName}>
       <div className='bobmodal-main pop-up-modal'>
         <button type="button" className="close-button" onClick={this.props.handleCloseModal}>&#10006;</button>
-        <span className="comparing-header">Comparing</span>
+        <span className="comparing-header"><em>Comparing</em></span>
         <br></br>
-        <span className="current-product-header">{this.state.currentProductName}</span>
-        <span className="compared-product-header">{this.state.comparedName}</span>
+        <br></br>
+        <span className="current-product-header"><strong>{this.state.currentProductName}</strong></span>
+        <span className="compared-product-header"><strong>{this.state.comparedName}</strong></span>
         <br></br>
         <br></br>
         <ComparisonModalTable productFeatures={this.state.productFeatures} currentProductFeatures={this.state.currentProductFeatures}/>
